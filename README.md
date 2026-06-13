@@ -6,6 +6,7 @@ Funcionalidades
 ## Tecnologias
 
 -Python
+
 -Tkinter
 -ttkbootstrap
 -SMTP Gmail
